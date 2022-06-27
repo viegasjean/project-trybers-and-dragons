@@ -1,5 +1,4 @@
 export default abstract class Race {
-  private static racesCount = 0;
   constructor(
     private _name: string,
     private _dexterity: number,
